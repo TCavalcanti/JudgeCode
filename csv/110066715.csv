@@ -1,0 +1,36 @@
+Questao,1.py
+Inputs,-21 7 -14,-17 8 1,-5 0 -2,13 -2 9,-14 2 8,22 17 28,-58 2 27,-2 17 -88,5 0 1,-78 3 -1
+Respostas Obtidas,"-21, -14, 7","-17, 1, 8","-5, -2, 0","-2, 9, 13","-14, 2, 8","17, 22, 28","-58, 2, 27","-88, -2, 17","0, 1, 5","-78, -1, 3"
+Gabarito Proposto,"-21, -14, 7","-17, 1, 8","-5, -2, 0","-2, 9, 13","-14, 2, 8","17, 22, 28","-58, 2, 27","-88, -2, 17","0, 1, 5","-78, -1, 3"
+Respostas Corrigidas,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou
+
+Questao,10.py
+Inputs,4 LIPPSASVPH,2 VQREQFGT,10 ABCDEFGHIJKLMNOPQRSTUVWXYZ,0 TOPCODER
+Respostas Obtidas,HELLOWORLD,TOPCODER,QRSTUVWXYZABCDEFGHIJKLMNOP,TOPCODER
+Gabarito Proposto,HELLOWORLD,TOPCODER,QRSTUVWXYZABCDEFGHIJKLMNOP,TOPCODER
+Respostas Corrigidas,acertou,acertou,acertou,acertou
+
+Questao,2.py
+Inputs,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4,2.0 4.7 2.5 3.4
+Respostas Obtidas,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928
+Gabarito Proposto,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928,1.3928
+Respostas Corrigidas,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou
+
+Questao,3.py
+Inputs,100 200,100 40,40 100,30 80,1 1000,41 57,98 20,1 13,15 1505
+Respostas Obtidas,13954,3984,3984,2571,462462,781,4310,78,1046463
+Gabarito Proposto,13954,3984,3984,2571,462462,781,4310,78,1038948
+Respostas Corrigidas,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,errou
+
+Questao,8.py
+Inputs,6,28,496,8128,7,13,15,18,21,3356350
+Respostas Obtidas,eh perfeito,eh perfeito,eh perfeito,eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito
+Gabarito Proposto,eh perfeito,eh perfeito,eh perfeito,eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito,nao eh perfeito
+Respostas Corrigidas,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou
+
+Questao,9.py
+Inputs,000.111.554-98,124.457.857-05,135.855.478-18,422.746.445-51,030.274.536-02,055.788.945-60,706.523.604-83,397.574.154-63,852.896.252-08,603.542.916-53
+Respostas Obtidas,CPF invalido,CPF invalido,CPF valido,CPF valido,CPF valido,CPF invalido,CPF valido,CPF invalido,CPF valido,CPF valido
+Gabarito Proposto,CPF invalido,CPF invalido,CPF valido,CPF valido,CPF valido,CPF invalido,CPF valido,CPF invalido,CPF valido,CPF valido
+Respostas Corrigidas,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou,acertou
+
